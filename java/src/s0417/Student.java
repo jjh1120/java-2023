@@ -7,7 +7,7 @@ public class Student {
 	int number;
 	double weight;
 
-	Student() {
+	public Student() {
 		weight = 0;
 	}
 
