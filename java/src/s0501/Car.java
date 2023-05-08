@@ -22,7 +22,7 @@ public class Car {
 		this.color = col;
 		this.speed = speed;
 		count++;
-	}
+	}	
 
 	void run() {
 		km = km + 10;
